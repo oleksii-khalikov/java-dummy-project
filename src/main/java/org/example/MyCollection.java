@@ -70,5 +70,5 @@ public class MyCollection<E> implements Collection<E> {
 
     }
 
-
+    // Other methods...
 }
